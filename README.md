@@ -1,2 +1,2 @@
 # VLSI-Design
-All the Installation and Codes will be present here
+All the Installation guidelines and Codes will be present here
